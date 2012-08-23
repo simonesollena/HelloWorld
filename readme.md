@@ -8,3 +8,5 @@ This is a _testing_ repository to explore github functionality
 > 
 > Donec sit amet nisl. Aliquam semper ipsum sit amet velit. Suspendisse
 > id sem consectetuer libero luctus adipiscing.
+
+markdown syntax is described [here](http://daringfireball.net/projects/markdown/syntax)
