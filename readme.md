@@ -1,3 +1,3 @@
 My First App
 ================================
-This is a testing repository to explore github functionality
+This is a _testing_ repository to explore github functionality
